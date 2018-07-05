@@ -1,0 +1,3 @@
+Reorders the existing data to match a new set of labels
+Inserts missing value (NA) markers in label locations where no data for that label existed
+If specified, fill data for missing labels using logic (highly relevant to working with time series data)
